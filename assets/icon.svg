@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <rect width="256" height="256" rx="32" fill="#EA242A"/>
+  <rect x="48" y="62" width="160" height="126" rx="12" fill="white"/>
+  <rect x="48" y="62" width="160" height="40" rx="12" fill="#C41E23"/>
+  <rect x="48" y="86" width="160" height="16" fill="#C41E23"/>
+  <rect x="88" y="38" width="16" height="48" rx="8" fill="white"/>
+  <rect x="152" y="38" width="16" height="48" rx="8" fill="white"/>
+  <circle cx="100" cy="138" r="12" fill="#EA242A"/>
+  <circle cx="156" cy="138" r="12" fill="#EA242A"/>
+  <circle cx="100" cy="168" r="12" fill="#EA242A" opacity="0.4"/>
+  <circle cx="156" cy="168" r="12" fill="#EA242A" opacity="0.4"/>
+  <text x="128" y="218" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" letter-spacing="1">By Gio Fandi</text>
+</svg>
